@@ -1,5 +1,5 @@
 # Microduino APM
-´ÓArduCopter-3.2.1ÒÆÖ²¹ıÀ´µÄ
+ä»ä»ArduCopter-3.2.1ç§»æ¤è¿‡æ¥ï¼Œåœ¨Microduinoçš„Core1280pä¸Šå®ç°å››è½´é£è¡Œå™¨ã€‚
 
 # ArduPilot Project
 
